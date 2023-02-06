@@ -31,7 +31,7 @@ ensuite je vais continuer le projet avec le développement:
 
 - 💬 Modélisation BDD: -----> &nbsp;&nbsp;&nbsp; **Diagramme UML, MCD, etc...**
 
-- 📫 Back-end & serveur: -----> &nbsp;&nbsp;&nbsp; **.NET (ASP.NET Api Web, MSSQL (Microsoft SQL Server), etc...)**
+- 📫 Back-end & serveur: -----> &nbsp;&nbsp;&nbsp; **.NET (ASP.NET Core 7.0 Api Web, MSSQL (Microsoft SQL Server), etc...)**
 
 - 👨‍💻 Front-end: -----> &nbsp;&nbsp;&nbsp; **(en cours de réflexion...)**
 
