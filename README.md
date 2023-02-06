@@ -29,7 +29,7 @@ ensuite je vais continuer le projet avec le développement:
 
 - 🎨 Maquette: -----> &nbsp;&nbsp;&nbsp; **Figma**
 
-- 💬 Modélisation BDD: -----> &nbsp;&nbsp;&nbsp; **Diagramme UML, MCD, etc...**
+- 💬 Modélisation BDD: -----> &nbsp;&nbsp;&nbsp; **Diagramme UML, MCD, etc... (avec diagrams.net et le logiciel "Looping"**
 
 - 📫 Back-end & serveur: -----> &nbsp;&nbsp;&nbsp; **.NET (ASP.NET Core 7.0 Api Web, MSSQL (Microsoft SQL Server), etc...)**
 
